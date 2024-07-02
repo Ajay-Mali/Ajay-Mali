@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Suresh Mali</h1>
-<h3 align="center">Full stack developerexcels in delivering end-to-end solutions.</h3>
+<h3 align="center">Full stack developer excels in delivering end-to-end solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-mali&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-mali" /> </p>
 
