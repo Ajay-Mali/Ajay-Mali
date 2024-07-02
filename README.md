@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Integrated Vehicle Tracking System**
 
-- 🌱 I’m currently learning **Spring Boot Microservices**
+- 🌱 I’m currently learning **Spring Boot, Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajay-Mali](https://github.com/Ajay-Mali)
 
-- 💬 Ask me about **Spring MVC, JavaScript, My SQL,Java 8**
+- 💬 Ask me about **Spring MVC, JavaScript, My SQL, Java 8**
 
 - 📫 How to reach me **ajaymali02016@gmail.com**
 
