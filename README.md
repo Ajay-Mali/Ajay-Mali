@@ -28,10 +28,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-Mali&show_icons=true&locale=en&layout=compact" alt="Ajay-Mali" /></p>
 
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Ajay-Mali&theme=minimal"/>
-</p>
+
 
 ## 💳 Github Profile Summary Card
 <p align="center">
