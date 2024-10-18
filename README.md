@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Ajay Suresh Mali</h1>
 	 
-<h3 align="center"> *An enthusiastic Programmer |  Android Developer| Web Developer | SpringBoot | Freelancer | Open Source lover* </h3>
+<h3 align="center"> An enthusiastic Programmer |  Android Developer| Web Developer | SpringBoot | Freelancer | Open Source lover </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-mali&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-mali" /> </p>
 
 # 💫 About Me :
