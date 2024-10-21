@@ -9,8 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<br/> <br/>
-<br/>
+
 ## 💫 About Me :
 - 🔭 I’m currently working on **Integrated Vehicle Tracking System**
 - 🌱 I’m currently learning **Spring Boot, Microservices**
@@ -18,8 +17,11 @@
 - 💬 Ask me about **Spring MVC, JavaScript, MySQL, Java 8**
 - 📫 Reach me at **ajaymali02016@gmail.com**
 
+
+<br/> <br/>
+<br/>
 ## 💻 Connect with Me:
-<p align="center">
+<p align="">
   <a href="https://linkedin.com/in/ajay-mali-205b84193" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/ajay_mali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
