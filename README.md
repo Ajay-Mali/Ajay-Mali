@@ -9,6 +9,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<br/> <br/>
+<br/>
 ## 💫 About Me :
 - 🔭 I’m currently working on **Integrated Vehicle Tracking System**
 - 🌱 I’m currently learning **Spring Boot, Microservices**
