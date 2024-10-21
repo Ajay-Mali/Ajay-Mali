@@ -6,6 +6,8 @@
 <h3 align="center"> Enthusiastic Programmer | Android & Web Developer | Spring Boot Specialist | Freelancer | Open Source Enthusiast </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-mali&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-mali" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 # 💫 About Me :
 - 🔭 I’m currently working on **Integrated Vehicle Tracking System**
 
