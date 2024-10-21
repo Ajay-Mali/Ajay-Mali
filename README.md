@@ -3,7 +3,7 @@
 	 
 <h3 align="center">Enthusiastic Programmer | Android & Web Developer | Spring Boot Specialist | Freelancer | Open Source Enthusiast</h3>
 
-<p align="center">
+<p align="">
   <img src="https://komarev.com/ghpvc/?username=Ajay-Mali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -39,6 +39,6 @@
 </p>
 
 ## 🌐 Most Used Languages
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-Mali&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
 </p>
