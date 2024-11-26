@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif" height="45" width="45" />, I'm Ajay Suresh Mali</h1>
 	 
-<h3 align="center">Enthusiastic Programmer | Android & Web Developer | Spring Boot Specialist | Freelancer | Open Source Enthusiast</h3>
+<h3 align="center">Enthusiastic Programmer | Android & Web Developer | Spring Boot Specialist  | Open Source Enthusiast</h3>
 
 <p align="">
   <img src="https://komarev.com/ghpvc/?username=Ajay-Mali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
